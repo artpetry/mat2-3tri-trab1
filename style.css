@@ -1,3 +1,6 @@
 .capa_de_fundo{
-     background-image:-moz-element() ;  
+ margin-top: auto;
+ margin-bottom: auto;
+ margin-left: auto;
+ margin-right: auto;
 }
